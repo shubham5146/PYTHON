@@ -24,4 +24,4 @@ story = f'It was a {adj1}, cold November day. I woke up to the \
  on the {noun2}.'
 
 
-print(story)
+print("story:",story)
